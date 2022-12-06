@@ -1,0 +1,31 @@
+{
+    "botToken": "<yourbottokenhere>",
+
+    "connectionType": "polling",
+
+    "webhookOptions":{
+        "webhookHost": null,
+        
+        "webhookPort": null,
+        
+        "webhookListen": "0.0.0.0",
+        
+        "sslCertificate": null,
+        
+        "sslPrivateKey": null
+    },
+    
+    "adminId" : "<your telegram userid here>",
+
+    "database": "torrenthunt.sqlite",
+
+    "magnetDatabase": "magnets.sqlite",
+
+    "cache": "cache",
+
+    "cacheTime": 86400,
+
+    "language": "language.json",
+
+    "apiLink": "https://torrents-api.ryukme.repl.co/api"
+}
