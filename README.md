@@ -17,6 +17,7 @@ Discussion Group: [@H9Discussion](https://t.me/h9discussion)
 * Host the [Torrents-API](https://github.com/Ryuk-me/Torrents-Api) on your own server for better performance or leave it default. This API will be used for inline query only.
 
 * Edit the [src/sample-config.json](src/sample-config.json) file and rename it to `config.json`
+* Update bottoken and userId, user https://t.me/userinfobot to get your userid.
 
     <details>
     <summary>⚙️ Click here to see a sample config file</summary>
